@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    repo = "tutorbrijan/dockerpipeline"
+    repo = "binu119/dockerpipeline"
   }
   agent any
   stages {
