@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    repo = "binu119/dockerpipeline"
+    repo = "binu119/pipelinedemov2"
   }
   agent any
   stages {
